@@ -80,5 +80,11 @@ This lists various services that provide free access or credits towards API-base
             <td>Phone number verification</td>
             <td>Various open models</td>
         </tr>
+        <tr>
+            <td><a href="https://inferaft.com/pricing">Inferaft</a></td>
+            <td>3,000,000 GLM-5.3 Flash tokens on signup (first 300 new accounts, once)<br>+3,000,000 per referral (up to 5 friends)</td>
+            <td>Email only, no credit card</td>
+            <td>GLM-5.3 Flash (free grant). Gateway also serves Kimi K3, GLM-5.3, DeepSeek V4 / V4.1 Flash, Qwen3.8-27B on paid plans. OpenAI- and Anthropic-compatible (one key, base URL https://inferaft.com).</td>
+        </tr>
     </tbody>
 </table>
